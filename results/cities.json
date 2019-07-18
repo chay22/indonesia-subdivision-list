@@ -1,0 +1,227 @@
+[
+    {
+        "id": 1,
+        "name": "Kab. Simeulue",
+        "province_id": 11
+    },
+    {
+        "id": 2,
+        "name": "Kab. Aceh Singkil",
+        "province_id": 11
+    },
+    {
+        "id": 3,
+        "name": "Kab. Aceh Selatan",
+        "province_id": 11
+    },
+    {
+        "id": 4,
+        "name": "Kab. Aceh Tenggara",
+        "province_id": 11
+    },
+    {
+        "id": 5,
+        "name": "Kab. Aceh Timur",
+        "province_id": 11
+    },
+    {
+        "id": 6,
+        "name": "Kab. Aceh Tengah",
+        "province_id": 11
+    },
+    {
+        "id": 7,
+        "name": "Kab. Aceh Barat",
+        "province_id": 11
+    },
+    {
+        "id": 8,
+        "name": "Kab. Aceh Besar",
+        "province_id": 11
+    },
+    {
+        "id": 9,
+        "name": "Kab. Pidie",
+        "province_id": 11
+    },
+    {
+        "id": 10,
+        "name": "Kab. Bireuen",
+        "province_id": 11
+    },
+    {
+        "id": 11,
+        "name": "Kab. Aceh Utara",
+        "province_id": 11
+    },
+    {
+        "id": 12,
+        "name": "Kab. Aceh Barat Daya",
+        "province_id": 11
+    },
+    {
+        "id": 13,
+        "name": "Kab. Gayo Lues",
+        "province_id": 11
+    },
+    {
+        "id": 14,
+        "name": "Kab. Aceh Tamiang",
+        "province_id": 11
+    },
+    {
+        "id": 15,
+        "name": "Kab. Nagan Raya",
+        "province_id": 11
+    },
+    {
+        "id": 16,
+        "name": "Kab. Aceh Jaya",
+        "province_id": 11
+    },
+    {
+        "id": 17,
+        "name": "Kab. Bener Meriah",
+        "province_id": 11
+    },
+    {
+        "id": 18,
+        "name": "Kab. Pidie Jaya",
+        "province_id": 11
+    },
+    {
+        "id": 19,
+        "name": "Kab. Batu Bara",
+        "province_id": 12
+    },
+    {
+        "id": 20,
+        "name": "Kab. Padang Lawas Utara",
+        "province_id": 12
+    },
+    {
+        "id": 21,
+        "name": "Kab. Padang Lawas",
+        "province_id": 12
+    },
+    {
+        "id": 22,
+        "name": "Kab. Labuhan Batu Selatan",
+        "province_id": 12
+    },
+    {
+        "id": 23,
+        "name": "Kab. Labuhan Batu Utara",
+        "province_id": 12
+    },
+    {
+        "id": 24,
+        "name": "Kab. Nias Utara",
+        "province_id": 12
+    },
+    {
+        "id": 25,
+        "name": "Kab. Nias Barat",
+        "province_id": 12
+    },
+    {
+        "id": 26,
+        "name": "Kab. Pekalongan",
+        "province_id": 33
+    },
+    {
+        "id": 27,
+        "name": "Kab. Pemalang",
+        "province_id": 33
+    },
+    {
+        "id": 28,
+        "name": "Kab. Tegal",
+        "province_id": 33
+    },
+    {
+        "id": 29,
+        "name": "Kab. Brebes",
+        "province_id": 33
+    },
+    {
+        "id": 30,
+        "name": "Kab. Lanny Jaya",
+        "province_id": 94
+    },
+    {
+        "id": 31,
+        "name": "Kab. Mamberamo Tengah",
+        "province_id": 94
+    },
+    {
+        "id": 32,
+        "name": "Kab. Yalimo",
+        "province_id": 94
+    },
+    {
+        "id": 33,
+        "name": "Kab. Puncak",
+        "province_id": 94
+    },
+    {
+        "id": 34,
+        "name": "Kab. Dogiyai",
+        "province_id": 94
+    },
+    {
+        "id": 35,
+        "name": "Kab. Intan Jaya",
+        "province_id": 94
+    },
+    {
+        "id": 36,
+        "name": "Kab. Deiyai",
+        "province_id": 94
+    },
+    {
+        "id": 71,
+        "name": "Banda Aceh",
+        "province_id": 11
+    },
+    {
+        "id": 72,
+        "name": "Sabang",
+        "province_id": 11
+    },
+    {
+        "id": 73,
+        "name": "Langsa",
+        "province_id": 11
+    },
+    {
+        "id": 74,
+        "name": "Lhokseumawe",
+        "province_id": 11
+    },
+    {
+        "id": 75,
+        "name": "Subulussalam",
+        "province_id": 11
+    },
+    {
+        "id": 76,
+        "name": "Binjai",
+        "province_id": 12
+    },
+    {
+        "id": 77,
+        "name": "Padangsidimpuan",
+        "province_id": 12
+    },
+    {
+        "id": 78,
+        "name": "Gunungsitoli",
+        "province_id": 12
+    },
+    {
+        "id": 79,
+        "name": "Banjar",
+        "province_id": 32
+    }
+]
