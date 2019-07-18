@@ -91,137 +91,2482 @@
     },
     {
         "id": 19,
-        "name": "Kab. Batu Bara",
-        "province_id": 12
-    },
-    {
-        "id": 20,
-        "name": "Kab. Padang Lawas Utara",
-        "province_id": 12
-    },
-    {
-        "id": 21,
-        "name": "Kab. Padang Lawas",
-        "province_id": 12
-    },
-    {
-        "id": 22,
-        "name": "Kab. Labuhan Batu Selatan",
-        "province_id": 12
-    },
-    {
-        "id": 23,
-        "name": "Kab. Labuhan Batu Utara",
-        "province_id": 12
-    },
-    {
-        "id": 24,
-        "name": "Kab. Nias Utara",
-        "province_id": 12
-    },
-    {
-        "id": 25,
-        "name": "Kab. Nias Barat",
-        "province_id": 12
-    },
-    {
-        "id": 26,
-        "name": "Kab. Pekalongan",
-        "province_id": 33
-    },
-    {
-        "id": 27,
-        "name": "Kab. Pemalang",
-        "province_id": 33
-    },
-    {
-        "id": 28,
-        "name": "Kab. Tegal",
-        "province_id": 33
-    },
-    {
-        "id": 29,
-        "name": "Kab. Brebes",
-        "province_id": 33
-    },
-    {
-        "id": 30,
-        "name": "Kab. Lanny Jaya",
-        "province_id": 94
-    },
-    {
-        "id": 31,
-        "name": "Kab. Mamberamo Tengah",
-        "province_id": 94
-    },
-    {
-        "id": 32,
-        "name": "Kab. Yalimo",
-        "province_id": 94
-    },
-    {
-        "id": 33,
-        "name": "Kab. Puncak",
-        "province_id": 94
-    },
-    {
-        "id": 34,
-        "name": "Kab. Dogiyai",
-        "province_id": 94
-    },
-    {
-        "id": 35,
-        "name": "Kab. Intan Jaya",
-        "province_id": 94
-    },
-    {
-        "id": 36,
-        "name": "Kab. Deiyai",
-        "province_id": 94
-    },
-    {
-        "id": 71,
         "name": "Banda Aceh",
         "province_id": 11
     },
     {
-        "id": 72,
+        "id": 20,
         "name": "Sabang",
         "province_id": 11
     },
     {
-        "id": 73,
+        "id": 21,
         "name": "Langsa",
         "province_id": 11
     },
     {
-        "id": 74,
+        "id": 22,
         "name": "Lhokseumawe",
         "province_id": 11
     },
     {
-        "id": 75,
+        "id": 23,
         "name": "Subulussalam",
         "province_id": 11
     },
     {
-        "id": 76,
+        "id": 24,
+        "name": "Kab. Nias",
+        "province_id": 12
+    },
+    {
+        "id": 25,
+        "name": "Kab. Mandailing Natal",
+        "province_id": 12
+    },
+    {
+        "id": 26,
+        "name": "Kab. Tapanuli Selatan",
+        "province_id": 12
+    },
+    {
+        "id": 27,
+        "name": "Kab. Tapanuli Tengah",
+        "province_id": 12
+    },
+    {
+        "id": 28,
+        "name": "Kab. Tapanuli Utara",
+        "province_id": 12
+    },
+    {
+        "id": 29,
+        "name": "Kab. Toba Samosir",
+        "province_id": 12
+    },
+    {
+        "id": 30,
+        "name": "Kab. Labuhan Batu",
+        "province_id": 12
+    },
+    {
+        "id": 31,
+        "name": "Kab. Asahan",
+        "province_id": 12
+    },
+    {
+        "id": 32,
+        "name": "Kab. Simalungun",
+        "province_id": 12
+    },
+    {
+        "id": 33,
+        "name": "Kab. Dairi",
+        "province_id": 12
+    },
+    {
+        "id": 34,
+        "name": "Kab. Karo",
+        "province_id": 12
+    },
+    {
+        "id": 35,
+        "name": "Kab. Deli Serdang",
+        "province_id": 12
+    },
+    {
+        "id": 36,
+        "name": "Kab. Langkat",
+        "province_id": 12
+    },
+    {
+        "id": 37,
+        "name": "Kab. Nias Selatan",
+        "province_id": 12
+    },
+    {
+        "id": 38,
+        "name": "Kab. Humbang Hasundutan",
+        "province_id": 12
+    },
+    {
+        "id": 39,
+        "name": "Kab. Pakpak Bharat",
+        "province_id": 12
+    },
+    {
+        "id": 40,
+        "name": "Kab. Samosir",
+        "province_id": 12
+    },
+    {
+        "id": 41,
+        "name": "Kab. Serdang Bedagai",
+        "province_id": 12
+    },
+    {
+        "id": 42,
+        "name": "Kab. Batu Bara",
+        "province_id": 12
+    },
+    {
+        "id": 43,
+        "name": "Kab. Padang Lawas Utara",
+        "province_id": 12
+    },
+    {
+        "id": 44,
+        "name": "Kab. Padang Lawas",
+        "province_id": 12
+    },
+    {
+        "id": 45,
+        "name": "Kab. Labuhan Batu Selatan",
+        "province_id": 12
+    },
+    {
+        "id": 46,
+        "name": "Kab. Labuhan Batu Utara",
+        "province_id": 12
+    },
+    {
+        "id": 47,
+        "name": "Kab. Nias Utara",
+        "province_id": 12
+    },
+    {
+        "id": 48,
+        "name": "Kab. Nias Barat",
+        "province_id": 12
+    },
+    {
+        "id": 49,
+        "name": "Sibolga",
+        "province_id": 12
+    },
+    {
+        "id": 50,
+        "name": "Tanjung Balai",
+        "province_id": 12
+    },
+    {
+        "id": 51,
+        "name": "Pematang Siantar",
+        "province_id": 12
+    },
+    {
+        "id": 52,
+        "name": "Tebing Tinggi",
+        "province_id": 12
+    },
+    {
+        "id": 53,
+        "name": "Medan",
+        "province_id": 12
+    },
+    {
+        "id": 54,
         "name": "Binjai",
         "province_id": 12
     },
     {
-        "id": 77,
+        "id": 55,
         "name": "Padangsidimpuan",
         "province_id": 12
     },
     {
-        "id": 78,
+        "id": 56,
         "name": "Gunungsitoli",
         "province_id": 12
     },
     {
+        "id": 57,
+        "name": "Kab. Kepulauan Mentawai",
+        "province_id": 13
+    },
+    {
+        "id": 58,
+        "name": "Kab. Pesisir Selatan",
+        "province_id": 13
+    },
+    {
+        "id": 59,
+        "name": "Kab. Solok",
+        "province_id": 13
+    },
+    {
+        "id": 60,
+        "name": "Kab. Sijunjung",
+        "province_id": 13
+    },
+    {
+        "id": 61,
+        "name": "Kab. Tanah Datar",
+        "province_id": 13
+    },
+    {
+        "id": 62,
+        "name": "Kab. Padang Pariaman",
+        "province_id": 13
+    },
+    {
+        "id": 63,
+        "name": "Kab. Agam",
+        "province_id": 13
+    },
+    {
+        "id": 64,
+        "name": "Kab. Lima Puluh Kota",
+        "province_id": 13
+    },
+    {
+        "id": 65,
+        "name": "Kab. Pasaman",
+        "province_id": 13
+    },
+    {
+        "id": 66,
+        "name": "Kab. Solok Selatan",
+        "province_id": 13
+    },
+    {
+        "id": 67,
+        "name": "Kab. Dharmasraya",
+        "province_id": 13
+    },
+    {
+        "id": 68,
+        "name": "Kab. Pasaman Barat",
+        "province_id": 13
+    },
+    {
+        "id": 69,
+        "name": "Padang",
+        "province_id": 13
+    },
+    {
+        "id": 70,
+        "name": "Solok",
+        "province_id": 13
+    },
+    {
+        "id": 71,
+        "name": "Sawah Lunto",
+        "province_id": 13
+    },
+    {
+        "id": 72,
+        "name": "Padang Panjang",
+        "province_id": 13
+    },
+    {
+        "id": 73,
+        "name": "Bukittinggi",
+        "province_id": 13
+    },
+    {
+        "id": 74,
+        "name": "Payakumbuh",
+        "province_id": 13
+    },
+    {
+        "id": 75,
+        "name": "Pariaman",
+        "province_id": 13
+    },
+    {
+        "id": 76,
+        "name": "Kab. Kuantan Singingi",
+        "province_id": 14
+    },
+    {
+        "id": 77,
+        "name": "Kab. Indragiri Hulu",
+        "province_id": 14
+    },
+    {
+        "id": 78,
+        "name": "Kab. Indragiri Hilir",
+        "province_id": 14
+    },
+    {
         "id": 79,
+        "name": "Kab. Pelalawan",
+        "province_id": 14
+    },
+    {
+        "id": 80,
+        "name": "Kab. S I A K",
+        "province_id": 14
+    },
+    {
+        "id": 81,
+        "name": "Kab. Kampar",
+        "province_id": 14
+    },
+    {
+        "id": 82,
+        "name": "Kab. Rokan Hulu",
+        "province_id": 14
+    },
+    {
+        "id": 83,
+        "name": "Kab. Bengkalis",
+        "province_id": 14
+    },
+    {
+        "id": 84,
+        "name": "Kab. Rokan Hilir",
+        "province_id": 14
+    },
+    {
+        "id": 85,
+        "name": "Kab. Kepulauan Meranti",
+        "province_id": 14
+    },
+    {
+        "id": 86,
+        "name": "Pekanbaru",
+        "province_id": 14
+    },
+    {
+        "id": 87,
+        "name": "D U M A I",
+        "province_id": 14
+    },
+    {
+        "id": 88,
+        "name": "Kab. Kerinci",
+        "province_id": 15
+    },
+    {
+        "id": 89,
+        "name": "Kab. Merangin",
+        "province_id": 15
+    },
+    {
+        "id": 90,
+        "name": "Kab. Sarolangun",
+        "province_id": 15
+    },
+    {
+        "id": 91,
+        "name": "Kab. Batang Hari",
+        "province_id": 15
+    },
+    {
+        "id": 92,
+        "name": "Kab. Muaro Jambi",
+        "province_id": 15
+    },
+    {
+        "id": 93,
+        "name": "Kab. Tanjung Jabung Timur",
+        "province_id": 15
+    },
+    {
+        "id": 94,
+        "name": "Kab. Tanjung Jabung Barat",
+        "province_id": 15
+    },
+    {
+        "id": 95,
+        "name": "Kab. Tebo",
+        "province_id": 15
+    },
+    {
+        "id": 96,
+        "name": "Kab. Bungo",
+        "province_id": 15
+    },
+    {
+        "id": 97,
+        "name": "Jambi",
+        "province_id": 15
+    },
+    {
+        "id": 98,
+        "name": "Sungai Penuh",
+        "province_id": 15
+    },
+    {
+        "id": 99,
+        "name": "Kab. Ogan Komering Ulu",
+        "province_id": 16
+    },
+    {
+        "id": 100,
+        "name": "Kab. Ogan Komering Ilir",
+        "province_id": 16
+    },
+    {
+        "id": 101,
+        "name": "Kab. Muara Enim",
+        "province_id": 16
+    },
+    {
+        "id": 102,
+        "name": "Kab. Lahat",
+        "province_id": 16
+    },
+    {
+        "id": 103,
+        "name": "Kab. Musi Rawas",
+        "province_id": 16
+    },
+    {
+        "id": 104,
+        "name": "Kab. Musi Banyuasin",
+        "province_id": 16
+    },
+    {
+        "id": 105,
+        "name": "Kab. Banyu Asin",
+        "province_id": 16
+    },
+    {
+        "id": 106,
+        "name": "Kab. Ogan Komering Ulu Selatan",
+        "province_id": 16
+    },
+    {
+        "id": 107,
+        "name": "Kab. Ogan Komering Ulu Timur",
+        "province_id": 16
+    },
+    {
+        "id": 108,
+        "name": "Kab. Ogan Ilir",
+        "province_id": 16
+    },
+    {
+        "id": 109,
+        "name": "Kab. Empat Lawang",
+        "province_id": 16
+    },
+    {
+        "id": 110,
+        "name": "Kab. Penukal Abab Lematang Ilir",
+        "province_id": 16
+    },
+    {
+        "id": 111,
+        "name": "Kab. Musi Rawas Utara",
+        "province_id": 16
+    },
+    {
+        "id": 112,
+        "name": "Palembang",
+        "province_id": 16
+    },
+    {
+        "id": 113,
+        "name": "Prabumulih",
+        "province_id": 16
+    },
+    {
+        "id": 114,
+        "name": "Pagar Alam",
+        "province_id": 16
+    },
+    {
+        "id": 115,
+        "name": "Lubuklinggau",
+        "province_id": 16
+    },
+    {
+        "id": 116,
+        "name": "Kab. Bengkulu Selatan",
+        "province_id": 17
+    },
+    {
+        "id": 117,
+        "name": "Kab. Rejang Lebong",
+        "province_id": 17
+    },
+    {
+        "id": 118,
+        "name": "Kab. Bengkulu Utara",
+        "province_id": 17
+    },
+    {
+        "id": 119,
+        "name": "Kab. Kaur",
+        "province_id": 17
+    },
+    {
+        "id": 120,
+        "name": "Kab. Seluma",
+        "province_id": 17
+    },
+    {
+        "id": 121,
+        "name": "Kab. Mukomuko",
+        "province_id": 17
+    },
+    {
+        "id": 122,
+        "name": "Kab. Lebong",
+        "province_id": 17
+    },
+    {
+        "id": 123,
+        "name": "Kab. Kepahiang",
+        "province_id": 17
+    },
+    {
+        "id": 124,
+        "name": "Kab. Bengkulu Tengah",
+        "province_id": 17
+    },
+    {
+        "id": 125,
+        "name": "Bengkulu",
+        "province_id": 17
+    },
+    {
+        "id": 126,
+        "name": "Kab. Lampung Barat",
+        "province_id": 18
+    },
+    {
+        "id": 127,
+        "name": "Kab. Tanggamus",
+        "province_id": 18
+    },
+    {
+        "id": 128,
+        "name": "Kab. Lampung Selatan",
+        "province_id": 18
+    },
+    {
+        "id": 129,
+        "name": "Kab. Lampung Timur",
+        "province_id": 18
+    },
+    {
+        "id": 130,
+        "name": "Kab. Lampung Tengah",
+        "province_id": 18
+    },
+    {
+        "id": 131,
+        "name": "Kab. Lampung Utara",
+        "province_id": 18
+    },
+    {
+        "id": 132,
+        "name": "Kab. Way Kanan",
+        "province_id": 18
+    },
+    {
+        "id": 133,
+        "name": "Kab. Tulangbawang",
+        "province_id": 18
+    },
+    {
+        "id": 134,
+        "name": "Kab. Pesawaran",
+        "province_id": 18
+    },
+    {
+        "id": 135,
+        "name": "Kab. Pringsewu",
+        "province_id": 18
+    },
+    {
+        "id": 136,
+        "name": "Kab. Mesuji",
+        "province_id": 18
+    },
+    {
+        "id": 137,
+        "name": "Kab. Tulang Bawang Barat",
+        "province_id": 18
+    },
+    {
+        "id": 138,
+        "name": "Kab. Pesisir Barat",
+        "province_id": 18
+    },
+    {
+        "id": 139,
+        "name": "Bandar Lampung",
+        "province_id": 18
+    },
+    {
+        "id": 140,
+        "name": "Metro",
+        "province_id": 18
+    },
+    {
+        "id": 141,
+        "name": "Kab. Bangka",
+        "province_id": 19
+    },
+    {
+        "id": 142,
+        "name": "Kab. Belitung",
+        "province_id": 19
+    },
+    {
+        "id": 143,
+        "name": "Kab. Bangka Barat",
+        "province_id": 19
+    },
+    {
+        "id": 144,
+        "name": "Kab. Bangka Tengah",
+        "province_id": 19
+    },
+    {
+        "id": 145,
+        "name": "Kab. Bangka Selatan",
+        "province_id": 19
+    },
+    {
+        "id": 146,
+        "name": "Kab. Belitung Timur",
+        "province_id": 19
+    },
+    {
+        "id": 147,
+        "name": "Pangkalpinang",
+        "province_id": 19
+    },
+    {
+        "id": 148,
+        "name": "Kab. Karimun",
+        "province_id": 21
+    },
+    {
+        "id": 149,
+        "name": "Kab. Bintan",
+        "province_id": 21
+    },
+    {
+        "id": 150,
+        "name": "Kab. Natuna",
+        "province_id": 21
+    },
+    {
+        "id": 151,
+        "name": "Kab. Lingga",
+        "province_id": 21
+    },
+    {
+        "id": 152,
+        "name": "Kab. Kepulauan Anambas",
+        "province_id": 21
+    },
+    {
+        "id": 153,
+        "name": "B A T A M",
+        "province_id": 21
+    },
+    {
+        "id": 154,
+        "name": "Tanjung Pinang",
+        "province_id": 21
+    },
+    {
+        "id": 155,
+        "name": "Kab. Kepulauan Seribu",
+        "province_id": 31
+    },
+    {
+        "id": 156,
+        "name": "Jakarta Selatan",
+        "province_id": 31
+    },
+    {
+        "id": 157,
+        "name": "Jakarta Timur",
+        "province_id": 31
+    },
+    {
+        "id": 158,
+        "name": "Jakarta Pusat",
+        "province_id": 31
+    },
+    {
+        "id": 159,
+        "name": "Jakarta Barat",
+        "province_id": 31
+    },
+    {
+        "id": 160,
+        "name": "Jakarta Utara",
+        "province_id": 31
+    },
+    {
+        "id": 161,
+        "name": "Kab. Bogor",
+        "province_id": 32
+    },
+    {
+        "id": 162,
+        "name": "Kab. Sukabumi",
+        "province_id": 32
+    },
+    {
+        "id": 163,
+        "name": "Kab. Cianjur",
+        "province_id": 32
+    },
+    {
+        "id": 164,
+        "name": "Kab. Bandung",
+        "province_id": 32
+    },
+    {
+        "id": 165,
+        "name": "Kab. Garut",
+        "province_id": 32
+    },
+    {
+        "id": 166,
+        "name": "Kab. Tasikmalaya",
+        "province_id": 32
+    },
+    {
+        "id": 167,
+        "name": "Kab. Ciamis",
+        "province_id": 32
+    },
+    {
+        "id": 168,
+        "name": "Kab. Kuningan",
+        "province_id": 32
+    },
+    {
+        "id": 169,
+        "name": "Kab. Cirebon",
+        "province_id": 32
+    },
+    {
+        "id": 170,
+        "name": "Kab. Majalengka",
+        "province_id": 32
+    },
+    {
+        "id": 171,
+        "name": "Kab. Sumedang",
+        "province_id": 32
+    },
+    {
+        "id": 172,
+        "name": "Kab. Indramayu",
+        "province_id": 32
+    },
+    {
+        "id": 173,
+        "name": "Kab. Subang",
+        "province_id": 32
+    },
+    {
+        "id": 174,
+        "name": "Kab. Purwakarta",
+        "province_id": 32
+    },
+    {
+        "id": 175,
+        "name": "Kab. Karawang",
+        "province_id": 32
+    },
+    {
+        "id": 176,
+        "name": "Kab. Bekasi",
+        "province_id": 32
+    },
+    {
+        "id": 177,
+        "name": "Kab. Bandung Barat",
+        "province_id": 32
+    },
+    {
+        "id": 178,
+        "name": "Kab. Pangandaran",
+        "province_id": 32
+    },
+    {
+        "id": 179,
+        "name": "Bogor",
+        "province_id": 32
+    },
+    {
+        "id": 180,
+        "name": "Sukabumi",
+        "province_id": 32
+    },
+    {
+        "id": 181,
+        "name": "Bandung",
+        "province_id": 32
+    },
+    {
+        "id": 182,
+        "name": "Cirebon",
+        "province_id": 32
+    },
+    {
+        "id": 183,
+        "name": "Bekasi",
+        "province_id": 32
+    },
+    {
+        "id": 184,
+        "name": "Depok",
+        "province_id": 32
+    },
+    {
+        "id": 185,
+        "name": "Cimahi",
+        "province_id": 32
+    },
+    {
+        "id": 186,
+        "name": "Tasikmalaya",
+        "province_id": 32
+    },
+    {
+        "id": 187,
         "name": "Banjar",
         "province_id": 32
+    },
+    {
+        "id": 188,
+        "name": "Kab. Cilacap",
+        "province_id": 33
+    },
+    {
+        "id": 189,
+        "name": "Kab. Banyumas",
+        "province_id": 33
+    },
+    {
+        "id": 190,
+        "name": "Kab. Purbalingga",
+        "province_id": 33
+    },
+    {
+        "id": 191,
+        "name": "Kab. Banjarnegara",
+        "province_id": 33
+    },
+    {
+        "id": 192,
+        "name": "Kab. Kebumen",
+        "province_id": 33
+    },
+    {
+        "id": 193,
+        "name": "Kab. Purworejo",
+        "province_id": 33
+    },
+    {
+        "id": 194,
+        "name": "Kab. Wonosobo",
+        "province_id": 33
+    },
+    {
+        "id": 195,
+        "name": "Kab. Magelang",
+        "province_id": 33
+    },
+    {
+        "id": 196,
+        "name": "Kab. Boyolali",
+        "province_id": 33
+    },
+    {
+        "id": 197,
+        "name": "Kab. Klaten",
+        "province_id": 33
+    },
+    {
+        "id": 198,
+        "name": "Kab. Sukoharjo",
+        "province_id": 33
+    },
+    {
+        "id": 199,
+        "name": "Kab. Wonogiri",
+        "province_id": 33
+    },
+    {
+        "id": 200,
+        "name": "Kab. Karanganyar",
+        "province_id": 33
+    },
+    {
+        "id": 201,
+        "name": "Kab. Sragen",
+        "province_id": 33
+    },
+    {
+        "id": 202,
+        "name": "Kab. Grobogan",
+        "province_id": 33
+    },
+    {
+        "id": 203,
+        "name": "Kab. Blora",
+        "province_id": 33
+    },
+    {
+        "id": 204,
+        "name": "Kab. Rembang",
+        "province_id": 33
+    },
+    {
+        "id": 205,
+        "name": "Kab. Pati",
+        "province_id": 33
+    },
+    {
+        "id": 206,
+        "name": "Kab. Kudus",
+        "province_id": 33
+    },
+    {
+        "id": 207,
+        "name": "Kab. Jepara",
+        "province_id": 33
+    },
+    {
+        "id": 208,
+        "name": "Kab. Demak",
+        "province_id": 33
+    },
+    {
+        "id": 209,
+        "name": "Kab. Semarang",
+        "province_id": 33
+    },
+    {
+        "id": 210,
+        "name": "Kab. Temanggung",
+        "province_id": 33
+    },
+    {
+        "id": 211,
+        "name": "Kab. Kendal",
+        "province_id": 33
+    },
+    {
+        "id": 212,
+        "name": "Kab. Batang",
+        "province_id": 33
+    },
+    {
+        "id": 213,
+        "name": "Kab. Pekalongan",
+        "province_id": 33
+    },
+    {
+        "id": 214,
+        "name": "Kab. Pemalang",
+        "province_id": 33
+    },
+    {
+        "id": 215,
+        "name": "Kab. Tegal",
+        "province_id": 33
+    },
+    {
+        "id": 216,
+        "name": "Kab. Brebes",
+        "province_id": 33
+    },
+    {
+        "id": 217,
+        "name": "Magelang",
+        "province_id": 33
+    },
+    {
+        "id": 218,
+        "name": "Surakarta",
+        "province_id": 33
+    },
+    {
+        "id": 219,
+        "name": "Salatiga",
+        "province_id": 33
+    },
+    {
+        "id": 220,
+        "name": "Semarang",
+        "province_id": 33
+    },
+    {
+        "id": 221,
+        "name": "Pekalongan",
+        "province_id": 33
+    },
+    {
+        "id": 222,
+        "name": "Tegal",
+        "province_id": 33
+    },
+    {
+        "id": 223,
+        "name": "Kab. Kulon Progo",
+        "province_id": 34
+    },
+    {
+        "id": 224,
+        "name": "Kab. Bantul",
+        "province_id": 34
+    },
+    {
+        "id": 225,
+        "name": "Kab. Gunung Kidul",
+        "province_id": 34
+    },
+    {
+        "id": 226,
+        "name": "Kab. Sleman",
+        "province_id": 34
+    },
+    {
+        "id": 227,
+        "name": "Yogyakarta",
+        "province_id": 34
+    },
+    {
+        "id": 228,
+        "name": "Kab. Pacitan",
+        "province_id": 35
+    },
+    {
+        "id": 229,
+        "name": "Kab. Ponorogo",
+        "province_id": 35
+    },
+    {
+        "id": 230,
+        "name": "Kab. Trenggalek",
+        "province_id": 35
+    },
+    {
+        "id": 231,
+        "name": "Kab. Tulungagung",
+        "province_id": 35
+    },
+    {
+        "id": 232,
+        "name": "Kab. Blitar",
+        "province_id": 35
+    },
+    {
+        "id": 233,
+        "name": "Kab. Kediri",
+        "province_id": 35
+    },
+    {
+        "id": 234,
+        "name": "Kab. Malang",
+        "province_id": 35
+    },
+    {
+        "id": 235,
+        "name": "Kab. Lumajang",
+        "province_id": 35
+    },
+    {
+        "id": 236,
+        "name": "Kab. Jember",
+        "province_id": 35
+    },
+    {
+        "id": 237,
+        "name": "Kab. Banyuwangi",
+        "province_id": 35
+    },
+    {
+        "id": 238,
+        "name": "Kab. Bondowoso",
+        "province_id": 35
+    },
+    {
+        "id": 239,
+        "name": "Kab. Situbondo",
+        "province_id": 35
+    },
+    {
+        "id": 240,
+        "name": "Kab. Probolinggo",
+        "province_id": 35
+    },
+    {
+        "id": 241,
+        "name": "Kab. Pasuruan",
+        "province_id": 35
+    },
+    {
+        "id": 242,
+        "name": "Kab. Sidoarjo",
+        "province_id": 35
+    },
+    {
+        "id": 243,
+        "name": "Kab. Mojokerto",
+        "province_id": 35
+    },
+    {
+        "id": 244,
+        "name": "Kab. Jombang",
+        "province_id": 35
+    },
+    {
+        "id": 245,
+        "name": "Kab. Nganjuk",
+        "province_id": 35
+    },
+    {
+        "id": 246,
+        "name": "Kab. Madiun",
+        "province_id": 35
+    },
+    {
+        "id": 247,
+        "name": "Kab. Magetan",
+        "province_id": 35
+    },
+    {
+        "id": 248,
+        "name": "Kab. Ngawi",
+        "province_id": 35
+    },
+    {
+        "id": 249,
+        "name": "Kab. Bojonegoro",
+        "province_id": 35
+    },
+    {
+        "id": 250,
+        "name": "Kab. Tuban",
+        "province_id": 35
+    },
+    {
+        "id": 251,
+        "name": "Kab. Lamongan",
+        "province_id": 35
+    },
+    {
+        "id": 252,
+        "name": "Kab. Gresik",
+        "province_id": 35
+    },
+    {
+        "id": 253,
+        "name": "Kab. Bangkalan",
+        "province_id": 35
+    },
+    {
+        "id": 254,
+        "name": "Kab. Sampang",
+        "province_id": 35
+    },
+    {
+        "id": 255,
+        "name": "Kab. Pamekasan",
+        "province_id": 35
+    },
+    {
+        "id": 256,
+        "name": "Kab. Sumenep",
+        "province_id": 35
+    },
+    {
+        "id": 257,
+        "name": "Kediri",
+        "province_id": 35
+    },
+    {
+        "id": 258,
+        "name": "Blitar",
+        "province_id": 35
+    },
+    {
+        "id": 259,
+        "name": "Malang",
+        "province_id": 35
+    },
+    {
+        "id": 260,
+        "name": "Probolinggo",
+        "province_id": 35
+    },
+    {
+        "id": 261,
+        "name": "Pasuruan",
+        "province_id": 35
+    },
+    {
+        "id": 262,
+        "name": "Mojokerto",
+        "province_id": 35
+    },
+    {
+        "id": 263,
+        "name": "Madiun",
+        "province_id": 35
+    },
+    {
+        "id": 264,
+        "name": "Surabaya",
+        "province_id": 35
+    },
+    {
+        "id": 265,
+        "name": "Batu",
+        "province_id": 35
+    },
+    {
+        "id": 266,
+        "name": "Kab. Pandeglang",
+        "province_id": 36
+    },
+    {
+        "id": 267,
+        "name": "Kab. Lebak",
+        "province_id": 36
+    },
+    {
+        "id": 268,
+        "name": "Kab. Tangerang",
+        "province_id": 36
+    },
+    {
+        "id": 269,
+        "name": "Kab. Serang",
+        "province_id": 36
+    },
+    {
+        "id": 270,
+        "name": "Tangerang",
+        "province_id": 36
+    },
+    {
+        "id": 271,
+        "name": "Cilegon",
+        "province_id": 36
+    },
+    {
+        "id": 272,
+        "name": "Serang",
+        "province_id": 36
+    },
+    {
+        "id": 273,
+        "name": "Tangerang Selatan",
+        "province_id": 36
+    },
+    {
+        "id": 274,
+        "name": "Kab. Jembrana",
+        "province_id": 51
+    },
+    {
+        "id": 275,
+        "name": "Kab. Tabanan",
+        "province_id": 51
+    },
+    {
+        "id": 276,
+        "name": "Kab. Badung",
+        "province_id": 51
+    },
+    {
+        "id": 277,
+        "name": "Kab. Gianyar",
+        "province_id": 51
+    },
+    {
+        "id": 278,
+        "name": "Kab. Klungkung",
+        "province_id": 51
+    },
+    {
+        "id": 279,
+        "name": "Kab. Bangli",
+        "province_id": 51
+    },
+    {
+        "id": 280,
+        "name": "Kab. Karangasem",
+        "province_id": 51
+    },
+    {
+        "id": 281,
+        "name": "Kab. Buleleng",
+        "province_id": 51
+    },
+    {
+        "id": 282,
+        "name": "Denpasar",
+        "province_id": 51
+    },
+    {
+        "id": 283,
+        "name": "Kab. Lombok Barat",
+        "province_id": 52
+    },
+    {
+        "id": 284,
+        "name": "Kab. Lombok Tengah",
+        "province_id": 52
+    },
+    {
+        "id": 285,
+        "name": "Kab. Lombok Timur",
+        "province_id": 52
+    },
+    {
+        "id": 286,
+        "name": "Kab. Sumbawa",
+        "province_id": 52
+    },
+    {
+        "id": 287,
+        "name": "Kab. Dompu",
+        "province_id": 52
+    },
+    {
+        "id": 288,
+        "name": "Kab. Bima",
+        "province_id": 52
+    },
+    {
+        "id": 289,
+        "name": "Kab. Sumbawa Barat",
+        "province_id": 52
+    },
+    {
+        "id": 290,
+        "name": "Kab. Lombok Utara",
+        "province_id": 52
+    },
+    {
+        "id": 291,
+        "name": "Mataram",
+        "province_id": 52
+    },
+    {
+        "id": 292,
+        "name": "Bima",
+        "province_id": 52
+    },
+    {
+        "id": 293,
+        "name": "Kab. Sumba Barat",
+        "province_id": 53
+    },
+    {
+        "id": 294,
+        "name": "Kab. Sumba Timur",
+        "province_id": 53
+    },
+    {
+        "id": 295,
+        "name": "Kab. Kupang",
+        "province_id": 53
+    },
+    {
+        "id": 296,
+        "name": "Kab. Timor Tengah Selatan",
+        "province_id": 53
+    },
+    {
+        "id": 297,
+        "name": "Kab. Timor Tengah Utara",
+        "province_id": 53
+    },
+    {
+        "id": 298,
+        "name": "Kab. Belu",
+        "province_id": 53
+    },
+    {
+        "id": 299,
+        "name": "Kab. Alor",
+        "province_id": 53
+    },
+    {
+        "id": 300,
+        "name": "Kab. Lembata",
+        "province_id": 53
+    },
+    {
+        "id": 301,
+        "name": "Kab. Flores Timur",
+        "province_id": 53
+    },
+    {
+        "id": 302,
+        "name": "Kab. Sikka",
+        "province_id": 53
+    },
+    {
+        "id": 303,
+        "name": "Kab. Ende",
+        "province_id": 53
+    },
+    {
+        "id": 304,
+        "name": "Kab. Ngada",
+        "province_id": 53
+    },
+    {
+        "id": 305,
+        "name": "Kab. Manggarai",
+        "province_id": 53
+    },
+    {
+        "id": 306,
+        "name": "Kab. Rote Ndao",
+        "province_id": 53
+    },
+    {
+        "id": 307,
+        "name": "Kab. Manggarai Barat",
+        "province_id": 53
+    },
+    {
+        "id": 308,
+        "name": "Kab. Sumba Tengah",
+        "province_id": 53
+    },
+    {
+        "id": 309,
+        "name": "Kab. Sumba Barat Daya",
+        "province_id": 53
+    },
+    {
+        "id": 310,
+        "name": "Kab. Nagekeo",
+        "province_id": 53
+    },
+    {
+        "id": 311,
+        "name": "Kab. Manggarai Timur",
+        "province_id": 53
+    },
+    {
+        "id": 312,
+        "name": "Kab. Sabu Raijua",
+        "province_id": 53
+    },
+    {
+        "id": 313,
+        "name": "Kab. Malaka",
+        "province_id": 53
+    },
+    {
+        "id": 314,
+        "name": "Kupang",
+        "province_id": 53
+    },
+    {
+        "id": 315,
+        "name": "Kab. Sambas",
+        "province_id": 61
+    },
+    {
+        "id": 316,
+        "name": "Kab. Bengkayang",
+        "province_id": 61
+    },
+    {
+        "id": 317,
+        "name": "Kab. Landak",
+        "province_id": 61
+    },
+    {
+        "id": 318,
+        "name": "Kab. Mempawah",
+        "province_id": 61
+    },
+    {
+        "id": 319,
+        "name": "Kab. Sanggau",
+        "province_id": 61
+    },
+    {
+        "id": 320,
+        "name": "Kab. Ketapang",
+        "province_id": 61
+    },
+    {
+        "id": 321,
+        "name": "Kab. Sintang",
+        "province_id": 61
+    },
+    {
+        "id": 322,
+        "name": "Kab. Kapuas Hulu",
+        "province_id": 61
+    },
+    {
+        "id": 323,
+        "name": "Kab. Sekadau",
+        "province_id": 61
+    },
+    {
+        "id": 324,
+        "name": "Kab. Melawi",
+        "province_id": 61
+    },
+    {
+        "id": 325,
+        "name": "Kab. Kayong Utara",
+        "province_id": 61
+    },
+    {
+        "id": 326,
+        "name": "Kab. Kubu Raya",
+        "province_id": 61
+    },
+    {
+        "id": 327,
+        "name": "Pontianak",
+        "province_id": 61
+    },
+    {
+        "id": 328,
+        "name": "Singkawang",
+        "province_id": 61
+    },
+    {
+        "id": 329,
+        "name": "Kab. Kotawaringin Barat",
+        "province_id": 62
+    },
+    {
+        "id": 330,
+        "name": "Kab. Kotawaringin Timur",
+        "province_id": 62
+    },
+    {
+        "id": 331,
+        "name": "Kab. Kapuas",
+        "province_id": 62
+    },
+    {
+        "id": 332,
+        "name": "Kab. Barito Selatan",
+        "province_id": 62
+    },
+    {
+        "id": 333,
+        "name": "Kab. Barito Utara",
+        "province_id": 62
+    },
+    {
+        "id": 334,
+        "name": "Kab. Sukamara",
+        "province_id": 62
+    },
+    {
+        "id": 335,
+        "name": "Kab. Lamandau",
+        "province_id": 62
+    },
+    {
+        "id": 336,
+        "name": "Kab. Seruyan",
+        "province_id": 62
+    },
+    {
+        "id": 337,
+        "name": "Kab. Katingan",
+        "province_id": 62
+    },
+    {
+        "id": 338,
+        "name": "Kab. Pulang Pisau",
+        "province_id": 62
+    },
+    {
+        "id": 339,
+        "name": "Kab. Gunung Mas",
+        "province_id": 62
+    },
+    {
+        "id": 340,
+        "name": "Kab. Barito Timur",
+        "province_id": 62
+    },
+    {
+        "id": 341,
+        "name": "Kab. Murung Raya",
+        "province_id": 62
+    },
+    {
+        "id": 342,
+        "name": "Palangka Raya",
+        "province_id": 62
+    },
+    {
+        "id": 343,
+        "name": "Kab. Tanah Laut",
+        "province_id": 63
+    },
+    {
+        "id": 344,
+        "name": "Kab. Kotabaru",
+        "province_id": 63
+    },
+    {
+        "id": 345,
+        "name": "Kab. Banjar",
+        "province_id": 63
+    },
+    {
+        "id": 346,
+        "name": "Kab. Barito Kuala",
+        "province_id": 63
+    },
+    {
+        "id": 347,
+        "name": "Kab. Tapin",
+        "province_id": 63
+    },
+    {
+        "id": 348,
+        "name": "Kab. Hulu Sungai Selatan",
+        "province_id": 63
+    },
+    {
+        "id": 349,
+        "name": "Kab. Hulu Sungai Tengah",
+        "province_id": 63
+    },
+    {
+        "id": 350,
+        "name": "Kab. Hulu Sungai Utara",
+        "province_id": 63
+    },
+    {
+        "id": 351,
+        "name": "Kab. Tabalong",
+        "province_id": 63
+    },
+    {
+        "id": 352,
+        "name": "Kab. Tanah Bumbu",
+        "province_id": 63
+    },
+    {
+        "id": 353,
+        "name": "Kab. Balangan",
+        "province_id": 63
+    },
+    {
+        "id": 354,
+        "name": "Banjarmasin",
+        "province_id": 63
+    },
+    {
+        "id": 355,
+        "name": "Banjar Baru",
+        "province_id": 63
+    },
+    {
+        "id": 356,
+        "name": "Kab. Paser",
+        "province_id": 64
+    },
+    {
+        "id": 357,
+        "name": "Kab. Kutai Barat",
+        "province_id": 64
+    },
+    {
+        "id": 358,
+        "name": "Kab. Kutai Kartanegara",
+        "province_id": 64
+    },
+    {
+        "id": 359,
+        "name": "Kab. Kutai Timur",
+        "province_id": 64
+    },
+    {
+        "id": 360,
+        "name": "Kab. Berau",
+        "province_id": 64
+    },
+    {
+        "id": 361,
+        "name": "Kab. Penajam Paser Utara",
+        "province_id": 64
+    },
+    {
+        "id": 362,
+        "name": "Kab. Mahakam Hulu",
+        "province_id": 64
+    },
+    {
+        "id": 363,
+        "name": "Balikpapan",
+        "province_id": 64
+    },
+    {
+        "id": 364,
+        "name": "Samarinda",
+        "province_id": 64
+    },
+    {
+        "id": 365,
+        "name": "Bontang",
+        "province_id": 64
+    },
+    {
+        "id": 366,
+        "name": "Kab. Malinau",
+        "province_id": 65
+    },
+    {
+        "id": 367,
+        "name": "Kab. Bulungan",
+        "province_id": 65
+    },
+    {
+        "id": 368,
+        "name": "Kab. Tana Tidung",
+        "province_id": 65
+    },
+    {
+        "id": 369,
+        "name": "Kab. Nunukan",
+        "province_id": 65
+    },
+    {
+        "id": 370,
+        "name": "Tarakan",
+        "province_id": 65
+    },
+    {
+        "id": 371,
+        "name": "Kab. Bolaang Mongondow",
+        "province_id": 71
+    },
+    {
+        "id": 372,
+        "name": "Kab. Minahasa",
+        "province_id": 71
+    },
+    {
+        "id": 373,
+        "name": "Kab. Kepulauan Sangihe",
+        "province_id": 71
+    },
+    {
+        "id": 374,
+        "name": "Kab. Kepulauan Talaud",
+        "province_id": 71
+    },
+    {
+        "id": 375,
+        "name": "Kab. Minahasa Selatan",
+        "province_id": 71
+    },
+    {
+        "id": 376,
+        "name": "Kab. Minahasa Utara",
+        "province_id": 71
+    },
+    {
+        "id": 377,
+        "name": "Kab. Bolaang Mongondow Utara",
+        "province_id": 71
+    },
+    {
+        "id": 378,
+        "name": "Kab. Siau Tagulandang Biaro",
+        "province_id": 71
+    },
+    {
+        "id": 379,
+        "name": "Kab. Minahasa Tenggara",
+        "province_id": 71
+    },
+    {
+        "id": 380,
+        "name": "Kab. Bolaang Mongondow Selatan",
+        "province_id": 71
+    },
+    {
+        "id": 381,
+        "name": "Kab. Bolaang Mongondow Timur",
+        "province_id": 71
+    },
+    {
+        "id": 382,
+        "name": "Manado",
+        "province_id": 71
+    },
+    {
+        "id": 383,
+        "name": "Bitung",
+        "province_id": 71
+    },
+    {
+        "id": 384,
+        "name": "Tomohon",
+        "province_id": 71
+    },
+    {
+        "id": 385,
+        "name": "Kotamobagu",
+        "province_id": 71
+    },
+    {
+        "id": 386,
+        "name": "Kab. Banggai Kepulauan",
+        "province_id": 72
+    },
+    {
+        "id": 387,
+        "name": "Kab. Banggai",
+        "province_id": 72
+    },
+    {
+        "id": 388,
+        "name": "Kab. Morowali",
+        "province_id": 72
+    },
+    {
+        "id": 389,
+        "name": "Kab. Poso",
+        "province_id": 72
+    },
+    {
+        "id": 390,
+        "name": "Kab. Donggala",
+        "province_id": 72
+    },
+    {
+        "id": 391,
+        "name": "Kab. Toli-toli",
+        "province_id": 72
+    },
+    {
+        "id": 392,
+        "name": "Kab. Buol",
+        "province_id": 72
+    },
+    {
+        "id": 393,
+        "name": "Kab. Parigi Moutong",
+        "province_id": 72
+    },
+    {
+        "id": 394,
+        "name": "Kab. Tojo Una-una",
+        "province_id": 72
+    },
+    {
+        "id": 395,
+        "name": "Kab. Sigi",
+        "province_id": 72
+    },
+    {
+        "id": 396,
+        "name": "Kab. Banggai Laut",
+        "province_id": 72
+    },
+    {
+        "id": 397,
+        "name": "Kab. Morowali Utara",
+        "province_id": 72
+    },
+    {
+        "id": 398,
+        "name": "Palu",
+        "province_id": 72
+    },
+    {
+        "id": 399,
+        "name": "Kab. Kepulauan Selayar",
+        "province_id": 73
+    },
+    {
+        "id": 400,
+        "name": "Kab. Bulukumba",
+        "province_id": 73
+    },
+    {
+        "id": 401,
+        "name": "Kab. Bantaeng",
+        "province_id": 73
+    },
+    {
+        "id": 402,
+        "name": "Kab. Jeneponto",
+        "province_id": 73
+    },
+    {
+        "id": 403,
+        "name": "Kab. Takalar",
+        "province_id": 73
+    },
+    {
+        "id": 404,
+        "name": "Kab. Gowa",
+        "province_id": 73
+    },
+    {
+        "id": 405,
+        "name": "Kab. Sinjai",
+        "province_id": 73
+    },
+    {
+        "id": 406,
+        "name": "Kab. Maros",
+        "province_id": 73
+    },
+    {
+        "id": 407,
+        "name": "Kab. Pangkajene Dan Kepulauan",
+        "province_id": 73
+    },
+    {
+        "id": 408,
+        "name": "Kab. Barru",
+        "province_id": 73
+    },
+    {
+        "id": 409,
+        "name": "Kab. Bone",
+        "province_id": 73
+    },
+    {
+        "id": 410,
+        "name": "Kab. Soppeng",
+        "province_id": 73
+    },
+    {
+        "id": 411,
+        "name": "Kab. Wajo",
+        "province_id": 73
+    },
+    {
+        "id": 412,
+        "name": "Kab. Sidenreng Rappang",
+        "province_id": 73
+    },
+    {
+        "id": 413,
+        "name": "Kab. Pinrang",
+        "province_id": 73
+    },
+    {
+        "id": 414,
+        "name": "Kab. Enrekang",
+        "province_id": 73
+    },
+    {
+        "id": 415,
+        "name": "Kab. Luwu",
+        "province_id": 73
+    },
+    {
+        "id": 416,
+        "name": "Kab. Tana Toraja",
+        "province_id": 73
+    },
+    {
+        "id": 417,
+        "name": "Kab. Luwu Utara",
+        "province_id": 73
+    },
+    {
+        "id": 418,
+        "name": "Kab. Luwu Timur",
+        "province_id": 73
+    },
+    {
+        "id": 419,
+        "name": "Kab. Toraja Utara",
+        "province_id": 73
+    },
+    {
+        "id": 420,
+        "name": "Makassar",
+        "province_id": 73
+    },
+    {
+        "id": 421,
+        "name": "Parepare",
+        "province_id": 73
+    },
+    {
+        "id": 422,
+        "name": "Palopo",
+        "province_id": 73
+    },
+    {
+        "id": 423,
+        "name": "Kab. Buton",
+        "province_id": 74
+    },
+    {
+        "id": 424,
+        "name": "Kab. Muna",
+        "province_id": 74
+    },
+    {
+        "id": 425,
+        "name": "Kab. Konawe",
+        "province_id": 74
+    },
+    {
+        "id": 426,
+        "name": "Kab. Kolaka",
+        "province_id": 74
+    },
+    {
+        "id": 427,
+        "name": "Kab. Konawe Selatan",
+        "province_id": 74
+    },
+    {
+        "id": 428,
+        "name": "Kab. Bombana",
+        "province_id": 74
+    },
+    {
+        "id": 429,
+        "name": "Kab. Wakatobi",
+        "province_id": 74
+    },
+    {
+        "id": 430,
+        "name": "Kab. Kolaka Utara",
+        "province_id": 74
+    },
+    {
+        "id": 431,
+        "name": "Kab. Buton Utara",
+        "province_id": 74
+    },
+    {
+        "id": 432,
+        "name": "Kab. Konawe Utara",
+        "province_id": 74
+    },
+    {
+        "id": 433,
+        "name": "Kab. Kolaka Timur",
+        "province_id": 74
+    },
+    {
+        "id": 434,
+        "name": "Kab. Konawe Kepulauan",
+        "province_id": 74
+    },
+    {
+        "id": 435,
+        "name": "Kab. Muna Barat",
+        "province_id": 74
+    },
+    {
+        "id": 436,
+        "name": "Kab. Buton Tengah",
+        "province_id": 74
+    },
+    {
+        "id": 437,
+        "name": "Kab. Buton Selatan",
+        "province_id": 74
+    },
+    {
+        "id": 438,
+        "name": "Kendari",
+        "province_id": 74
+    },
+    {
+        "id": 439,
+        "name": "Baubau",
+        "province_id": 74
+    },
+    {
+        "id": 440,
+        "name": "Kab. Boalemo",
+        "province_id": 75
+    },
+    {
+        "id": 441,
+        "name": "Kab. Gorontalo",
+        "province_id": 75
+    },
+    {
+        "id": 442,
+        "name": "Kab. Pohuwato",
+        "province_id": 75
+    },
+    {
+        "id": 443,
+        "name": "Kab. Bone Bolango",
+        "province_id": 75
+    },
+    {
+        "id": 444,
+        "name": "Kab. Gorontalo Utara",
+        "province_id": 75
+    },
+    {
+        "id": 445,
+        "name": "Gorontalo",
+        "province_id": 75
+    },
+    {
+        "id": 446,
+        "name": "Kab. Majene",
+        "province_id": 76
+    },
+    {
+        "id": 447,
+        "name": "Kab. Polewali Mandar",
+        "province_id": 76
+    },
+    {
+        "id": 448,
+        "name": "Kab. Mamasa",
+        "province_id": 76
+    },
+    {
+        "id": 449,
+        "name": "Kab. Mamuju",
+        "province_id": 76
+    },
+    {
+        "id": 450,
+        "name": "Kab. Pasangkayu",
+        "province_id": 76
+    },
+    {
+        "id": 451,
+        "name": "Kab. Mamuju Tengah",
+        "province_id": 76
+    },
+    {
+        "id": 452,
+        "name": "Kab. Kepulauan Tanimbar",
+        "province_id": 81
+    },
+    {
+        "id": 453,
+        "name": "Kab. Maluku Tenggara",
+        "province_id": 81
+    },
+    {
+        "id": 454,
+        "name": "Kab. Maluku Tengah",
+        "province_id": 81
+    },
+    {
+        "id": 455,
+        "name": "Kab. Buru",
+        "province_id": 81
+    },
+    {
+        "id": 456,
+        "name": "Kab. Kepulauan Aru",
+        "province_id": 81
+    },
+    {
+        "id": 457,
+        "name": "Kab. Seram Bagian Barat",
+        "province_id": 81
+    },
+    {
+        "id": 458,
+        "name": "Kab. Seram Bagian Timur",
+        "province_id": 81
+    },
+    {
+        "id": 459,
+        "name": "Kab. Maluku Barat Daya",
+        "province_id": 81
+    },
+    {
+        "id": 460,
+        "name": "Kab. Buru Selatan",
+        "province_id": 81
+    },
+    {
+        "id": 461,
+        "name": "Ambon",
+        "province_id": 81
+    },
+    {
+        "id": 462,
+        "name": "Tual",
+        "province_id": 81
+    },
+    {
+        "id": 463,
+        "name": "Kab. Halmahera Barat",
+        "province_id": 82
+    },
+    {
+        "id": 464,
+        "name": "Kab. Halmahera Tengah",
+        "province_id": 82
+    },
+    {
+        "id": 465,
+        "name": "Kab. Kepulauan Sula",
+        "province_id": 82
+    },
+    {
+        "id": 466,
+        "name": "Kab. Halmahera Selatan",
+        "province_id": 82
+    },
+    {
+        "id": 467,
+        "name": "Kab. Halmahera Utara",
+        "province_id": 82
+    },
+    {
+        "id": 468,
+        "name": "Kab. Halmahera Timur",
+        "province_id": 82
+    },
+    {
+        "id": 469,
+        "name": "Kab. Pulau Morotai",
+        "province_id": 82
+    },
+    {
+        "id": 470,
+        "name": "Kab. Pulau Taliabu",
+        "province_id": 82
+    },
+    {
+        "id": 471,
+        "name": "Ternate",
+        "province_id": 82
+    },
+    {
+        "id": 472,
+        "name": "Tidore Kepulauan",
+        "province_id": 82
+    },
+    {
+        "id": 473,
+        "name": "Kab. Fakfak",
+        "province_id": 91
+    },
+    {
+        "id": 474,
+        "name": "Kab. Kaimana",
+        "province_id": 91
+    },
+    {
+        "id": 475,
+        "name": "Kab. Teluk Wondama",
+        "province_id": 91
+    },
+    {
+        "id": 476,
+        "name": "Kab. Teluk Bintuni",
+        "province_id": 91
+    },
+    {
+        "id": 477,
+        "name": "Kab. Manokwari",
+        "province_id": 91
+    },
+    {
+        "id": 478,
+        "name": "Kab. Sorong Selatan",
+        "province_id": 91
+    },
+    {
+        "id": 479,
+        "name": "Kab. Sorong",
+        "province_id": 91
+    },
+    {
+        "id": 480,
+        "name": "Kab. Raja Ampat",
+        "province_id": 91
+    },
+    {
+        "id": 481,
+        "name": "Kab. Tambrauw",
+        "province_id": 91
+    },
+    {
+        "id": 482,
+        "name": "Kab. Maybrat",
+        "province_id": 91
+    },
+    {
+        "id": 483,
+        "name": "Kab. Manokwari Selatan",
+        "province_id": 91
+    },
+    {
+        "id": 484,
+        "name": "Kab. Pegunungan Arfak",
+        "province_id": 91
+    },
+    {
+        "id": 485,
+        "name": "Sorong",
+        "province_id": 91
+    },
+    {
+        "id": 486,
+        "name": "Kab. Merauke",
+        "province_id": 94
+    },
+    {
+        "id": 487,
+        "name": "Kab. Jayawijaya",
+        "province_id": 94
+    },
+    {
+        "id": 488,
+        "name": "Kab. Jayapura",
+        "province_id": 94
+    },
+    {
+        "id": 489,
+        "name": "Kab. Nabire",
+        "province_id": 94
+    },
+    {
+        "id": 490,
+        "name": "Kab. Kepulauan Yapen",
+        "province_id": 94
+    },
+    {
+        "id": 491,
+        "name": "Kab. Biak Numfor",
+        "province_id": 94
+    },
+    {
+        "id": 492,
+        "name": "Kab. Paniai",
+        "province_id": 94
+    },
+    {
+        "id": 493,
+        "name": "Kab. Puncak Jaya",
+        "province_id": 94
+    },
+    {
+        "id": 494,
+        "name": "Kab. Mimika",
+        "province_id": 94
+    },
+    {
+        "id": 495,
+        "name": "Kab. Boven Digoel",
+        "province_id": 94
+    },
+    {
+        "id": 496,
+        "name": "Kab. Mappi",
+        "province_id": 94
+    },
+    {
+        "id": 497,
+        "name": "Kab. Asmat",
+        "province_id": 94
+    },
+    {
+        "id": 498,
+        "name": "Kab. Yahukimo",
+        "province_id": 94
+    },
+    {
+        "id": 499,
+        "name": "Kab. Pegunungan Bintang",
+        "province_id": 94
+    },
+    {
+        "id": 500,
+        "name": "Kab. Tolikara",
+        "province_id": 94
+    },
+    {
+        "id": 501,
+        "name": "Kab. Sarmi",
+        "province_id": 94
+    },
+    {
+        "id": 502,
+        "name": "Kab. Keerom",
+        "province_id": 94
+    },
+    {
+        "id": 503,
+        "name": "Kab. Waropen",
+        "province_id": 94
+    },
+    {
+        "id": 504,
+        "name": "Kab. Supiori",
+        "province_id": 94
+    },
+    {
+        "id": 505,
+        "name": "Kab. Mamberamo Raya",
+        "province_id": 94
+    },
+    {
+        "id": 506,
+        "name": "Kab. Nduga",
+        "province_id": 94
+    },
+    {
+        "id": 507,
+        "name": "Kab. Lanny Jaya",
+        "province_id": 94
+    },
+    {
+        "id": 508,
+        "name": "Kab. Mamberamo Tengah",
+        "province_id": 94
+    },
+    {
+        "id": 509,
+        "name": "Kab. Yalimo",
+        "province_id": 94
+    },
+    {
+        "id": 510,
+        "name": "Kab. Puncak",
+        "province_id": 94
+    },
+    {
+        "id": 511,
+        "name": "Kab. Dogiyai",
+        "province_id": 94
+    },
+    {
+        "id": 512,
+        "name": "Kab. Intan Jaya",
+        "province_id": 94
+    },
+    {
+        "id": 513,
+        "name": "Kab. Deiyai",
+        "province_id": 94
+    },
+    {
+        "id": 514,
+        "name": "Jayapura",
+        "province_id": 94
     }
 ]
